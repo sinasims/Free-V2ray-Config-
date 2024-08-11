@@ -3,7 +3,7 @@
 
 - لینک 1:
 ```
-https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Sub1.txt
+https://raw.githubusercontent.com/sinasims/Free-V2ray-Config-/main/sub1.txt
 ```
 
 <p align="center">
