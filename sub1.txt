@@ -2,4 +2,3 @@ vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_SSHMax_9c81af4@151.101.2.85:443?encrypti
 vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_SSHMax_b41df9f@151.101.2.85:443?encryption=none&security=tls&sni=151.101.2.85&type=ws&host=francesalamazizam.com&path=%2Fvless#%F0%9F%87%AB%F0%9F%87%B7freev2rays-ws
 vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_SSHMax_6e384c1@151.101.2.85:443?encryption=none&security=tls&sni=151.101.2.85&type=ws&host=russiansalamazizam.com&path=%2Fvless#%F0%9F%87%B7%F0%9F%87%BA-freev2rays-ws
 vless://48e36101-b6ea-4179-94b6-6b6e69c67013@fr1.x2fast.net:8443?encryption=none&security=reality&sni=104.21.70.42&fp=chrome&pbk=9_hNyoPG96fNIMh4IBQ3gs88n86vwCjp53tL_X_2dy4&sid=0cfbfab0b04ca069&spx=%2F&type=tcp&headerType=http&host=fr1.x2fast.net&path=%2Fhttp#🇩🇪-reality
-vless://60f4ba56-3a9d-4d0b-9714-17bd0262d9c1@mosh11.star10.info:8080?security=none&encryption=none&headerType=http&type=tcp#freev2ray_s_new
